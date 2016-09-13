@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<wrap>
+
+	<runde>
+		<spm
+		tekst="Hvilke atomer indgår der i kulhydrat?"
+		korrekt="1"
+		>
+			<svar value="Kulstof, Hydrogen og Nitrogen"/>
+			<svar value="Kulstof, Hydrogen og Oxygen"/>
+			<svar value="Kulstof, Hydrogen og Natrium"/>
+			<svar value="Kuldioxid, Hydrogen og Nitrogen"/>			
+		</spm>
+		<spm
+		tekst="Hvad er kulhydrat?"
+		korrekt="0"
+		>
+			<svar value="Forskellig slags sukker"/>
+			<svar value="Forskellig slags salte"/>
+			<svar value="Forskellig slags vitaminer"/>
+			<svar value="Forskellig slags fedt"/>
+		</spm>
+		<spm
+		tekst="Hvilken type sukker er der på billedet?"
+		korrekt="2"
+		image="IMG_2966.png"
+		>
+			<svar value="Polysakkarid"/>
+			<svar value="Sakkarose (Almindeligt hvidt sukker)"/>
+			<svar value="Glukose (Druesukker)"/>
+			<svar value="Fruktose (Frugtsukker)"/>			
+		</spm>
+		<spm
+		tekst="Hvilken type sukker er der på billedet?"
+		korrekt="3"
+		image="IMG_2968.png"
+		>
+			<svar value="Polysakkarid"/>
+			<svar value="Sakkarose (Almindeligt hvidt sukker)"/>
+			<svar value="Glukose (Druesukker)"/>
+			<svar value="Fruktose (Frugtsukker)"/>			
+		</spm>	
+		<spm
+		tekst="Hvilken type sukker er der på billedet?"
+		korrekt="1"
+		image="IMG_2970.png"
+		>
+			<svar value="Polysakkarid"/>
+			<svar value="Sakkarose (Almindeligt hvidt sukker)"/>
+			<svar value="Glukose (Druesukker)"/>
+			<svar value="Fruktose (Frugtsukker)"/>			
+		</spm>
+		<spm
+		tekst="Hvilken type sukker er der på billedet?"
+		korrekt="0"
+		image="broed.png"
+		>
+			<svar value="Polysakkarid"/>
+			<svar value="Sakkarose (Almindeligt hvidt sukker)"/>
+			<svar value="Glukose (Druesukker)"/>
+			<svar value="Fruktose (Frugtsukker)"/>			
+		</spm>
+		<spm
+		tekst="Hvilken type sukker er der på billedet?"
+		korrekt="3"
+		image="kh_1_f.png"
+		>
+			<svar value="Polysakkarid"/>
+			<svar value="Sakkarose (Almindeligt hvidt sukker)"/>
+			<svar value="Glukose (Druesukker)"/>
+			<svar value="Fruktose (Frugtsukker)"/>			
+		</spm>
+		<spm
+		tekst="Hvilken type sukker er der på billedet?"
+		korrekt="2"
+		image="kh_1_g.png"
+		>
+			<svar value="Polysakkarid"/>
+			<svar value="Sakkarose (Almindeligt hvidt sukker)"/>
+			<svar value="Glukose (Druesukker)"/>
+			<svar value="Fruktose (Frugtsukker)"/>			
+		</spm>
+			
+		<spm
+		tekst="Hvidt sukker er det vi kommer i kaffe, the og kager, men hvad består det af?"
+		korrekt="2"
+		>
+			<svar value="Druesukker (også kaldet Glukose)"/>
+			<svar value="Frugtsukker (også kaldet Fruktose)"/>
+			<svar value="Frugtsukker og druesukker sat sammen (kaldes også sakkarose)"/>
+			<svar value="Polysakkarid"/>			
+		</spm>
+		<spm
+		tekst="Hvilken slags kulhydrat er usund?"
+		korrekt="2"
+		>
+			<svar value="Druesukker (også kaldet Glukose)"/>
+			<svar value="Frugtsukker (også kaldet Fruktose)"/>
+			<svar value="Frugtsukker og druesukker sat sammen (kaldes også sakkarose)"/>
+			<svar value="Polysakkarid"/>			
+		</spm>
+		
+			
+	</runde>
+</wrap>

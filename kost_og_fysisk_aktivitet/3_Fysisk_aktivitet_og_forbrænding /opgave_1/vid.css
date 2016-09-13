@@ -1,0 +1,135 @@
+@font-face {
+	font-family: 'Conv_TitilliumText22L005';
+	src: url('fonts/TitilliumText22L005.eot');
+	src: local('☺'), url('fonts/TitilliumText22L005.woff') format('woff'), url('fonts/TitilliumText22L005.ttf') format('truetype'), url('fonts/TitilliumText22L005.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body{
+	
+	font-family: Conv_TitilliumText22L005;
+}
+
+#player {
+	z-index: 1;
+	position: absolute;
+}
+#runde {
+	color: #777777;
+	opacity: 0.9;
+}
+#overlay {
+	position: relative;
+	/*background-image: url('img/bgr.png')*/;
+	z-index: 75;
+	
+}
+
+#kalorier {
+	/*bottom: 40px;*/
+	left:394px;
+	top:450px; 
+	position: absolute;
+	color:white;
+	font-size: 26px; 
+	text-align:right;
+	z-index: 1;
+	width: 112px; 
+	height:30px;
+	border-radius: 10px;
+	padding:10px; 
+	-moz-border-radius: 15px;
+	background-image: url('img/bgr.png');
+	opacity: 0.9;
+	
+}
+#scoreUp {
+	/*bottom: 40px;*/
+	left:394px;
+	top:440px; 
+	position: absolute;
+	color:#ff0080;
+	font-size: 26px; 
+	text-align:right;
+	z-index: 2;
+	width: 112px; 
+	height:30px;
+	padding:10px; 
+}
+.popud {
+	top: 100px;
+	position: absolute;
+	background-image: url('img/bgr.png');
+	opacity: 0.9;
+	z-index: 100;
+	border-radius: 10px;
+	padding:20px; 
+	-moz-border-radius: 10px;
+	
+}
+
+.byline {
+	font-size:10px;
+	color:white;
+}
+img {
+	position: relative;
+	cursor: pointer;
+}
+h4 {
+	margin: 15px;
+	/*bottom:0px;*/
+	color:white;
+	position: relative;
+	font-size: 24px;
+}
+td {
+	padding: 15px;
+	width:30px;
+	height:50px;
+	vertical-align:top;
+	
+}
+.ny {
+	width:230px;
+	padding: 0px;
+	cursor:pointer;
+	font-size:20px;
+	color: #ff0080;
+	
+	
+}
+
+
+.imgspan {
+	
+	font-size: 16px !important;
+	color:white;
+	text-decoration:underline;	
+	cursor: pointer;
+}
+h3 {
+	color: white;
+	font-size: 16px;
+	margin: 15px;
+}
+#time {
+
+	position: absolute;
+	top: 516px;
+	width: 904px;
+	color: white;
+	background-color:#777777;
+	font-size: 10px;
+}
+
+.html5-video-container {
+	background-color:white;
+	
+}
+
+.forfra {
+	color:#ff0080;
+}
+

@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<wrap>
+
+	<runde>
+		<spm
+		tekst="Hvilke grundstoffer indgår der i et proteinmolekyle?"
+		korrekt="2"
+		>
+			<svar value="Hydrogen, Kulstof, Chlor og Oxygen"/>
+			<svar value="Hydrogen, Kulstof, Nitrogen og Flour"/>
+			<svar value="Hydrogen, Kulstof, Nitrogen og Oxygen"/>
+			<svar value="Natrium, Kulstof, Nitrogen og Oxygen"/>			
+		</spm>
+		<spm
+		tekst="Hvor meget vejer et proteinmolekyle i forhold til et vandmolekyle?"
+		korrekt="2"
+		>
+			<svar value="Op til 10 gange så meget."/>
+			<svar value="Op til 1.000 gange så meget."/>
+			<svar value="Op til 100.000 gange så meget."/>
+			<svar value="Op til 1.000.000 gange så meget."/>
+		</spm>
+		<spm
+		tekst="Hvor finder vi ikke protein?"
+		korrekt="1"
+		>
+			<svar value="Æg, Enzymer, Kød."/>
+			<svar value="Sukker, Palmin, Vodka."/>
+			<svar value="Muskler, Bønner, Hår."/>			
+		</spm>
+		<spm
+		tekst="Proteinmolekylet består af?"
+		korrekt="0"
+		>
+			<svar value="En lang kæde af aminosyrer"/>
+			<svar value="Monosakarider."/>
+			<svar value="Natrium, Oxygen og Hydrogen."/>
+			<svar value="Fedtsyrer."/>			
+		</spm>
+		<spm
+		tekst="Hvad kaldes A og B i en aminosyre?"
+		korrekt="2"
+		image="aminosyrer.PNG"
+		>
+			<svar value="A hedder Syre-delen og B hedder Amin-delen."/>
+			<svar value="A hedder Protein-delen og B hedder Syre-delen."/>
+			<svar value="A hedder Amin-delen og B hedder Syre-delen."/>
+			<svar value="A hedder Nitrogen-delen og B hedder Syre-delen."/>			
+		</spm>
+		<spm
+		tekst="Hvor mange aminosyrer indgår der i liv her på jorden?"
+		korrekt="1"
+		>
+			<svar value="ca.17"/>
+			<svar value="ca.20"/>
+			<svar value="ca.50"/>
+			<svar value="ca.200"/>
+		</spm>
+		<spm
+		tekst="Hvor finder vi fiberprotein, og er det vandopløseligt."
+		korrekt="0"
+		>
+			<svar value="Vi finder dem i hår og negle. De er ikke vandopløselige."/>
+			<svar value="Vi finder dem i blodet. De er vandopløselige."/>
+			<svar value="Vi finder dem i blodet. De er ikke vandopløselige."/>
+			<svar value="Vi finder dem i galden. De er vandopløselige."/>
+		</spm>
+		<spm
+		tekst="Hvor finder vi kugleprotein?"
+		korrekt="0"
+		>
+			<svar value="Vi finder dem blandt andet i blodet. De er vandopløselige."/>
+			<svar value="Vi finder kugleprotein i hår og negle."/>
+			<svar value="Mennesket har ikke kugleprotein, det findes kun i planter."/>			
+		</spm>
+		
+		<spm
+		tekst="Hvad er hæmoglobin?"
+		korrekt="0"
+		>
+			<svar value="Et kugleprotein i blodet, der kan optage Oxygen og transportere det rundt i kroppen."/>
+			<svar value="Et Fiberprotein i blodet, der kan optage Oxygen og transportere det rundt i kroppen."/>
+			<svar value="Det stof der hæmmer bakteriers vækst i blodet."/>
+			<svar value="Et kugleprotein i blodet, der kan optage Carbondioxid og transportere det til lungerne."/>			
+		</spm>
+		<spm
+		tekst="Hvad hedder det protein der findes i hår og negle?"
+		korrekt="3"
+		>
+			<svar value="Elastin"/>
+			<svar value="Insulin"/>
+			<svar value="Myosin"/>
+			<svar value="Alfa-keratin"/>
+		</spm>
+		<spm
+		tekst="Hvad er insulin"
+		korrekt="3"
+		>
+			<svar value="Det der gør kød rødt."/>
+			<svar value="Et enzym som sykkersygepatienter har for meget af."/>
+			<svar value="Et firkantet hvidt stykke slik."/>
+			<svar value="Et kugleprotein, der kan transportere druesukker rundt i blodet."/>	
+		</spm>
+		<spm
+		tekst="Hvad er et enzym?"
+		korrekt="1"
+		>
+			<svar value="Et enkelt simpelt molekyle der gør at blodet ikke får for meget Oxygen."/>
+			<svar value="Det er et protein, der hjælper en kemisk reaktion i kroppen til at gå meget hurtigere."/>
+			<svar value="Et stof der nedbryder det brugte Oxygen i blodet."/>
+			<svar value="Det er et protein, der hjælper en kemisk reaktion i kroppen til at gå meget langsommere."/>
+		</spm>
+		
+	</runde>
+</wrap>

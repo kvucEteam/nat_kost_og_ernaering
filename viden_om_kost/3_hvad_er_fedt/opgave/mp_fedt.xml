@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<wrap>
+
+	<runde>
+		<spm
+		tekst="Hvilke atomer indgår der i et fedtmolekyle?"
+		korrekt="2"
+		>
+			<svar value="Hydrogen, Carbon, Nitrogen"/>
+			<svar value="Hydrogen, Bor, Oxygen"/>
+			<svar value="Hydrogen, Carbon, Oxygen"/>
+			<svar value="Helium, Carbon, Oxygen"/>			
+		</spm>
+		<spm
+		tekst="Hvilke fedtsyrer findes der?"
+		korrekt="0"
+		>
+			<svar value="Mættet fedt, enkeltumættet fedt, flerumættet fedt og trans Fedt"/>
+			<svar value="Dyrefedt og plantefedt"/>
+			<svar value="Olie og margarine"/>
+			<svar value="Palmin og svinefedt"/>
+		</spm>
+		<spm
+		tekst="Hvilken fedtsyre er dette?"
+		korrekt="2"
+		image="fedt_3.png"
+		>
+			<svar value="Mættet fedt"/>
+			<svar value="Enkeltumættet fedt"/>
+			<svar value="Flerumættet fedt"/>
+			<svar value="Trans-fedt"/>			
+		</spm>
+		<spm
+		tekst="Hvilken fedtsyre er dette?"
+		korrekt="0"
+		image="fedt_1.png"
+		>
+			<svar value="Mættet fedt"/>
+			<svar value="Enkeltumættet fedt"/>
+			<svar value="Flerumættet fedt"/>
+			<svar value="Trans-fedt"/>			
+		</spm>
+		<spm
+		tekst="Hvilken fedtsyre er dette?"
+		korrekt="1"
+		image="fedt_2.png"
+		>
+			<svar value="Mættet fedt"/>
+			<svar value="Enkeltumættet fedt"/>
+			<svar value="Flerumættet fedt"/>
+			<svar value="Trans-fedt"/>			
+		</spm>
+		<spm
+		tekst="Hvilken fedtsyre er dette?"
+		korrekt="3"
+		image="fedt_4.png"
+		>
+			<svar value="Mættet fedt"/>
+			<svar value="Enkeltumættet fedt"/>
+			<svar value="Flerumættet fedt"/>
+			<svar value="Trans-fedt"/>			
+		</spm>
+		<spm
+		tekst="Hvad er gældende for den kemiske sammensætning af fast fedt?"
+		korrekt="2"
+		>
+			<svar value="Fast fedt består mest af umættet fedt."/>
+			<svar value="Fast fedt indeholder mange dobbeltbindinger."/>
+			<svar value="Fast fedt består mest af mættet fedt."/>
+		</spm>
+		<spm
+		tekst="Hvad er gældende for den kemiske sammensætning af flydende fedt?"
+		korrekt="0"
+		>
+			<svar value="Flydende fedt indeholder mange dobbeltbindinger."/>
+			<svar value="Flydende fedt indeholder ingen dobbeltbindinger."/>
+			<svar value="Flydende fedt er altid mættet."/>
+		</spm>
+		
+		<spm
+		tekst="Hvilken type fedt er den absolut sundeste?"
+		korrekt="1"
+		>
+			<svar value="Umættet fedt"/>
+			<svar value="Flerumættet fedt"/>
+			<svar value="Trans fedt"/>
+			<svar value="Alt fedt er usundt"/>			
+		</spm>
+		<spm
+		tekst="Hvilken type fedt er absolut mest usund?"
+		korrekt="1"
+		>
+			<svar value="Flerumættet fedt"/>
+			<svar value="Trans-fedt"/>
+			<svar value="Alt fedt er usundt"/>	
+		</spm>
+		<spm
+		tekst="Hvor meget energi er der i et gram fedt?"
+		korrekt="2"
+		>
+			<svar value="17 KJ"/>
+			<svar value="30 KJ"/>
+			<svar value="38 KJ"/>
+			<svar value="42 KJ"/>	
+		</spm>
+		<spm
+		tekst="Hvorfor har kroppen valgt at gemme overskydende energi som fedt?"
+		korrekt="1"
+		>
+			<svar value="Fedt er det næringsstof der indeholder mindst energi pr. gram."/>
+			<svar value="Fedt er det næringsstof der indeholder mest energi pr. gram."/>
+			<svar value="Fordi fedt er sundere end protein."/>
+			<svar value="Det er det hurtigeste."/>			
+		</spm>
+		<spm
+		tekst="Hvad feder mest på kroppen?"
+		korrekt="1"
+		>
+			<svar value="Mættet fedt feder mere end umættet fedt."/>
+			<svar value="Mættet og umættet fedt feder lige meget."/>
+			<svar value="Umættet fedt feder mere end mættet fedt."/>
+			<svar value="Umættet fedt feder slet ikke."/>			
+		</spm>
+		
+			
+	</runde>
+</wrap>
