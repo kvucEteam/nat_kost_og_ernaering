@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<wrap>
+
+	<runde>
+		<spm
+		tekst="Overskydende energi bliver"
+		korrekt="0"
+		>
+			<svar value="...lagret som fedt."/>
+			<svar value="...skyllet ud af kroppen via urinen."/>
+			<svar value="...brug af hjernen til at tænke bedre."/>
+		</spm>
+		<spm
+		tekst="Hvad er omregningsfaktoren mellem Kcal og kJ?"
+		korrekt="1"
+		>
+			<svar value="20,8"/>
+			<svar value="4,2"/>
+			<svar value="100"/>
+		</spm>
+		<spm
+		tekst="Hvor meget forbrænder en gennemsnitlig mand om dagen?"
+		korrekt="1"
+		>
+			<svar value="5.000 - 8.000 kJ"/>
+			<svar value="11.000 – 15.000 kJ"/>
+			<svar value="25.000 – 28.000 kJ"/>
+		</spm>
+			
+	</runde>
+</wrap>

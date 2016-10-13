@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<runde>
+
+<SENTENCE url="none" tekst="2300 kJ" svar= "0"/> 
+
+<SENTENCE url="daim.jpg" tekst="Daim" svar= "0"/> 
+
+
+<SENTENCE url="none" tekst="125 kJ" svar= "1"/> 
+
+<SENTENCE url="clem.jpg" tekst="2 Clemmentiner" svar= "1"/> 
+
+
+
+<SENTENCE url="none" tekst="4800 kJ" svar= "2"/> 
+
+<SENTENCE url="pizza.jpg" tekst="pizza" svar= "2"/> 
+
+	
+</runde>

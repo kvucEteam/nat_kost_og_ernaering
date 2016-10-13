@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<runde>
+
+
+
+<SENTENCE url="none" tekst="850 kJ" svar= "0"/> 
+
+<SENTENCE url="cola.jpg" tekst="Cola" svar= "0"/> 
+
+
+
+<SENTENCE url="none" tekst="500 kJ" svar= "1"/> 
+
+<SENTENCE url="kaffelatte.jpg" tekst="Kaffe latte" svar= "1"/> 
+
+
+
+<SENTENCE url="none" tekst="1596 kJ" svar= "2"/> 
+
+<SENTENCE url="madvare.jpg" tekst="Salat" svar= "2"/> 
+
+
+</runde>
